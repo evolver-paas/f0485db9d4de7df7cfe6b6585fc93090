@@ -1,7 +1,7 @@
 
 CONTENTS OF THIS FILE
 ---------------------
-
+* Test Man
  * About Drupal
  * Configuration and features
  * Installation profiles
