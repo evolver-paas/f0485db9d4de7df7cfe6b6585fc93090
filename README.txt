@@ -3,6 +3,8 @@ CONTENTS OF THIS FILE
 ---------------------
 * Test Man
 * Test Man 2
+* Test Man 3 Oct 8 6:05pm
+
  * About Drupal
  * Configuration and features
  * Installation profiles
