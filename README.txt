@@ -11,6 +11,7 @@ CONTENTS OF THIS FILE
 =======
 * Test Man 6 Oct 9 10:19AM
 >>>>>>> origin/master
+* Test Man 2 Oct 10 1:13pm
 
  * About Drupal
  * Configuration and features
