@@ -6,7 +6,11 @@ CONTENTS OF THIS FILE
 * Test Man 3 Oct 8 6:05pm
 * Test Man 4 Oct 8 6:15am
 * Test Man 5 Oct 8 7:51am
+<<<<<<< HEAD
 * TEST with Dusty Oct 10 12:53pm
+=======
+* Test Man 6 Oct 9 10:19AM
+>>>>>>> origin/master
 
  * About Drupal
  * Configuration and features
