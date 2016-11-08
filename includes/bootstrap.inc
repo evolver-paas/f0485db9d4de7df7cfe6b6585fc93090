@@ -2315,6 +2315,7 @@ function drupal_get_hash_salt() {
  *   occurred.
  */
 function _drupal_error_handler($error_level, $message, $filename, $line, $context) {
+  \AppMonitor::logThrowable(new \ErrorException($message, 0, $error_level, $filename, $line));
   require_once DRUPAL_ROOT . '/includes/errors.inc';
   _drupal_error_handler_real($error_level, $message, $filename, $line, $context);
 }
@@ -2330,6 +2331,7 @@ function _drupal_error_handler($error_level, $message, $filename, $line, $contex
  *   The exception object that was thrown.
  */
 function _drupal_exception_handler($exception) {
+  \AppMonitor::logThrowable($exception);
   require_once DRUPAL_ROOT . '/includes/errors.inc';
 
   try {
