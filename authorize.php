@@ -1,13 +1,5 @@
 <?php
-// Testing goes here..........
-// Testing goes here..........10-10-2016 05:02 IST
-// Testing goes here..........10-10-2016 05:15 IST
-// Testing goes here..........11-10-2016 04:56 IST
-// Testing goes here..........11-10-2016 07:16 IST
-// Testing goes here..........13-10-2016 12:40 IST
-// Testing goes here..........14-10-2016 04:57 PM IST
-// Testing goes here..........14-10-2016 06:51 PM IST
-// Testing goes here..........14-10-2016 06:57 PM IST
+
 /**
  * @file
  * Administrative script for running authorized file operations.
